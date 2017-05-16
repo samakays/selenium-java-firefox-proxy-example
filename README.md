@@ -1,0 +1,1 @@
+# Simple proxy setup using selenium-java for Firefox version 48 and newer
